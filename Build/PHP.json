@@ -1,0 +1,11 @@
+{
+"companyName": "DarshansTechnologies",
+"productName": "Top_Down_Shooter",
+"dataUrl": "PHP.data.unityweb",
+"asmCodeUrl": "PHP.asm.code.unityweb",
+"asmMemoryUrl": "PHP.asm.memory.unityweb",
+"asmFrameworkUrl": "PHP.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
